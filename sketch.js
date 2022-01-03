@@ -72,7 +72,7 @@ function draw() {
   imageMode(CENTER)
   // write image() to display the polygon image 
   //use the same x and y position as ball
-  
+
 
 
   stroke(0,0,0);
@@ -121,7 +121,7 @@ function draw() {
   fill("pink")
   blocks9.display();
   fill("gold");
-
+  
 
   
   slingShot.display();
